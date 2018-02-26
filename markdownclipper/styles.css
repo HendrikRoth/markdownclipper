@@ -1,0 +1,24 @@
+body {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+.clipper {
+	width: 400px;
+	display: flex;
+	flex-direction: column;
+}
+
+.menu {
+	display: flex;
+	flex-direction: row;
+	background: #eee;
+	padding: 1rem;
+	justify-content: space-around;
+}
+
+#preview {
+	height: 400px;
+	boder: 0;
+}
